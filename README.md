@@ -84,10 +84,9 @@ Example:
 ```
 📦 ML-Projects-Movie-Recommendation-System
 │
-├── Movie_Recommendation_System.ipynb # Main Jupyter Notebook
-├── movies.csv # Dataset containing movie metadata
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+├── Movie_Recommendation_System.ipynb                                          # Main Jupyter Notebook
+├── moviesrecommend.csv                                                        # Dataset containing movie metadata
+└── README.md                                                                  # Project documentation
 ```
 
 ---
